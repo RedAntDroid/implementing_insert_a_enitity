@@ -84,3 +84,5 @@ Add functionality to navigate to an "Add Movie" form. This task focuses exclusiv
 
 If your GitHub username is `johnDoe` and the repository name is `assignment-repo`, the submission link would look like this:  
 **`https://github.com/johnDoe/assignment-repo`**
+
+##added add movie component.
